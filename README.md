@@ -8,3 +8,7 @@ the consensus algorithm Partition  Processing Egalitarian Paxos
 ### go install master
 ### go install server
 ### go install client
+# You can run through:
+### bin/master &
+### bin/server & (3 or 5 times, depend on your server numbers)
+### bin/client
