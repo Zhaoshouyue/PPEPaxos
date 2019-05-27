@@ -1,6 +1,6 @@
 # PPEPaxos
 the consensus algorithm Partition  Processing Egalitarian Paxos
-# There is three folders：
-###1.mypaxos-latency， which is the latency code
-###2.mypaxos-throughput-1KB， which is the throughput code when the client command is 1KB
-###3.mypaxos-throughput-16B， which is the throughput code when the client command is 16B
+# Three folders：
+### 1.mypaxos-latency， which is the latency code
+### 2.mypaxos-throughput-1KB， which is the throughput code when the client command is 1KB
+### 3.mypaxos-throughput-16B， which is the throughput code when the client command is 16B
