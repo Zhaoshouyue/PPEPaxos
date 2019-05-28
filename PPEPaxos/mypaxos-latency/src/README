@@ -2,8 +2,6 @@ Built with Go
 
 To build:
 
-    export GOPATH=[...]/git/epaxos/
-
     go install ppmaster
     go install server
     go install clientlat
