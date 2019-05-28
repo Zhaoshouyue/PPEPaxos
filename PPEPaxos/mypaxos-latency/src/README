@@ -4,7 +4,7 @@ To build:
 
     export GOPATH=[...]/git/epaxos/
 
-    go install master
+    go install ppmaster
     go install server
     go install client
 
